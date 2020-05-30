@@ -1,1 +1,9 @@
 Item is qt-maker.
+
+$>cd ./src
+$>make install
+$>make all
+$>cd ../
+$>make install
+$>make all
+
